@@ -1,5 +1,10 @@
 /*
-Operation in Array!
+Operation in Dynamic Array (not vector)!
+I use,
+int *arr=new int[n];
+which is similar to 
+int *arr=(int*)malloc(n*sizeof(int));
+I perform-->
 -->insertion,deletion
 -->traversing,searching
 */
